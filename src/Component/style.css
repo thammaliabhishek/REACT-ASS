@@ -1,0 +1,41 @@
+.App{
+    background-image:linear-gradient(lightblue, pink, lightyellow);
+    height:100vh;
+
+}
+.one{
+    text-shadow: 2px 2px 2px aqua;
+}
+.btn1{
+    height: 50px;
+    background-color:lightskyblue;
+    padding-top:1px;
+    border-radius:25px;
+    margin:15px;
+}
+.btn2{
+    height: 50px;
+    background-color:lightskyblue;
+    padding-top:1px;
+    border-radius:25px;
+    margin:15px;
+}
+.fun{
+    width:455px;
+    height: 180px;
+    background-color:aqua;
+    border:5px solid black;
+    border-radius:20px;
+    margin:50px;
+}
+.cls{
+    width:455px;
+    height: 180px;
+    background-color:aqua;
+    border:5px solid black;
+    border-radius:20px;
+    margin:50px;
+    position:absolute;
+    left:850px;
+    top:167px
+}
